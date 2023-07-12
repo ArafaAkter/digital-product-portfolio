@@ -56,3 +56,41 @@
     margin-bottom: 15px;
 
 }
+/* about section */
+.about{
+    text-align: center;
+    padding: 20px;
+    font-size: 55px;
+}
+.about-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+/* service section */
+.our{
+    text-align: center;
+    padding: 20px;
+    font-size: 55px;
+}
+.img{
+  width: 70px;
+}
+.service1{
+    width: 230px;
+    height: 250px;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+
+}
+.heading{
+    padding: 10px;
+}
+.services{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
